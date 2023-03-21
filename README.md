@@ -1,6 +1,7 @@
 Hi there, welcome to my GitHub profile! I’m Miguel Domingo. I work as a Ph.D. researcher at the [PRHLT Research Center](https://www.prhlt.upv.es/) from [Universitat Politècnica de València](http://www.upv.es/). I have been mainly working in machine translation and historical document processing, but my interests also include other areas of machine learning, computational linguistics and pattern recognition. You can find more information about me at my [website](https://mdomingo.me/).
 
-## Highlights
+---
+
 Here you can find highlighted what I consider to be some of my most useful contributions.
 
 ### Research
