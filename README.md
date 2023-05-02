@@ -9,10 +9,11 @@ Here you can find highlighted what I consider to be some of my most useful contr
 * **[Interactive Neural Machine Translation](https://github.com/PRHLT/OpenNMT-py/tree/inmt)**: a fork of the [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) toolkit implementing several interactive machine translation protocols.
 * **[MT Scripts](https://github.com/midobal/mt-scripts)**: a collection of several scripts useful for research in machine translation.
 * **[Statistical Dictionary](https://github.com/midobal/sd)**: Given a parallel data set, this software trains a statistical dictionary for translating documents. It was built in Python and makes use of [mgiza](https://github.com/moses-smt/mgiza) for computing *IBM model 1* alignments.
-* **[Word-Level AutoCompletion](https://github.com/PRHLT/OpenNMT-py/tree/inmt)**: a fork of the [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) toolkit that deploys a word-level autocompletion tool.
+* **[Word-Level AutoCompletion](https://github.com/PRHLT/OpenNMT-py/tree/word-level_autocompletion)**: a fork of the [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) toolkit that deploys a word-level autocompletion tool.
 
 ### Teaching
 * **[Neural Machine Translation: a Practical Session](https://github.com/midobal/nmt-practical-session)**: a [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to introduce the training of neural machine translation systems to students.
+* **[Stable Diffusion Fine-tuning with DreamBooth](https://github.com/midobal/sd-fine-tuning-practical-session)**: a [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to fine-tune [Stable Diffusion](https://stablediffusionweb.com/) so it learns to generate yourself.
 
 ### Templates
 * **[Dissertation](https://github.com/midobal/dissertation)**: the LaTeX template I designed for writing my Ph.D. dissertation.
